@@ -14,3 +14,5 @@
 ![Captura4](https://github.com/user-attachments/assets/b48c68d3-47d5-4b7b-af35-786ebd961a09)
 
 ![Captura5](https://github.com/user-attachments/assets/46f7e41d-c4b3-4998-8503-9af049b75d53)
+
+![Captura6](https://github.com/user-attachments/assets/6c44c0f4-22bd-460a-b120-3bb5255f839e)
