@@ -6,3 +6,11 @@
 - se puede insertar el nombre "presionando el boton AÑADIR" o presionando la tecla "ENTER"
 
 ![Captura1](https://github.com/user-attachments/assets/018bd9f4-e65f-4f1f-906c-9de36c795ae9)
+
+![Captura2](https://github.com/user-attachments/assets/65d32a56-bdd9-4cf5-a330-0b93f418c3f7)
+
+![Captura3](https://github.com/user-attachments/assets/540c2afc-2681-4e0e-b89d-aedfadae5a6f)
+
+![Captura4](https://github.com/user-attachments/assets/b48c68d3-47d5-4b7b-af35-786ebd961a09)
+
+![Captura5](https://github.com/user-attachments/assets/46f7e41d-c4b3-4998-8503-9af049b75d53)
